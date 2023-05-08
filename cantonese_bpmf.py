@@ -84,7 +84,7 @@ jyutping_bpmf_dict = {
  'yu': 'ㄩ',
  'yun': 'ㄩㄣ',
  'yut': 'ㄩㄉ',
- 'ju': 'ㄩ', # special rule
+ 'jung': 'ㄩㄥ', # special rule
  '1': 'ˉ', '2': 'ˊ', '3': '˫', '4': 'ˇ', '5': '˘', '6': '˪'} # tones
 
 def is_chinese_char(char):
